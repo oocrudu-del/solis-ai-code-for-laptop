@@ -1,0 +1,26 @@
+[
+  {
+    "date": "2026-06-15",
+    "time": "15:46:56",
+    "success": false,
+    "reason": "Admin reset attempt \u2014 wrong password"
+  },
+  {
+    "date": "2026-06-15",
+    "time": "15:47:02",
+    "success": false,
+    "reason": "Admin reset attempt \u2014 wrong password"
+  },
+  {
+    "date": "2026-06-15",
+    "time": "15:52:09",
+    "success": false,
+    "reason": "Admin reset \u2014 face data deleted"
+  },
+  {
+    "date": "2026-06-15",
+    "time": "15:52:19",
+    "success": false,
+    "reason": "Admin reset \u2014 face data deleted"
+  }
+]

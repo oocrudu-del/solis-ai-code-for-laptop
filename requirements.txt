@@ -1,0 +1,65 @@
+# Core AI
+openai
+groq
+requests
+python-dotenv
+# asyncio is part of the Python standard library
+
+# Vision / Camera
+opencv-python
+pillow
+# face-recognition (commented out — dlib requires Visual C++ build tools)
+# face-recognition
+numpy
+
+# GUI
+# tkinter is included with Python on Windows
+customtkinter
+
+# Audio / Speech
+speechrecognition
+pyttsx3
+edge-tts
+pygame
+playsound==1.2.2
+pyaudio
+
+# Automation
+pyautogui
+pyperclip
+pygetwindow
+keyboard
+mouse
+
+# Windows Control
+pywin32
+comtypes
+pycaw
+
+# Web / Search
+wikipedia
+pywhatkit
+# webbrowser (stdlib) removed — not a pip package
+
+# FastAPI
+fastapi
+uvicorn
+pydantic
+
+# Notifications
+plyer
+
+# Translation
+mtranslate
+
+# File / Utilities
+send2trash
+
+# Optional AI / ML
+mediapipe
+transformers
+torch
+
+# Extra
+colorama
+rich
